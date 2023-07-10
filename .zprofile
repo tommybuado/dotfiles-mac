@@ -6,7 +6,7 @@ export PATH="$HOME/.local/bin:$PATH"
 export EDITOR="/usr/bin/vim"
 
 # ls colors
-export LSCOLORS="ExGxFxdxCxegedabagacad"
+export LSCOLORS="ExGxcxdxCxegedabagacad"
 export CLICOLOR=1
 
 # homebrew
